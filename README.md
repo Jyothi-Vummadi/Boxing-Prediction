@@ -44,3 +44,6 @@ Accuracy : 72.09% <br />
 # Dataset
 https://drive.google.com/file/d/1JnqwMT-a0zuoS_PBe0HgopEaEmvfinjL/view?usp=sharing <br/>
 https://drive.google.com/file/d/1Z5CA_4Ph55TPiWnRgCPT9Kqf6quPwuyn/view?usp=sharing 
+
+# Note
+Make sure to edit the path to dataset accordingly under the "Reading DataSet" Section.
